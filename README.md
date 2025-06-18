@@ -6,12 +6,6 @@
    - Google reCAPTCHA
    - Arkose Labs (FunCaptcha)
 
-
-📂 Projects:
-   - Javascript Browser Interpreter
-   - Deobfuscator for Anti-bots
-
-
 💻 Languages:  
    - Python
    - Javascript
